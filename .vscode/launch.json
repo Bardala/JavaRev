@@ -1,0 +1,255 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HashSetClass",
+      "request": "launch",
+      "mainClass": "collectionFramework.set.HashSetClass",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListClass",
+      "request": "launch",
+      "mainClass": "collectionFramework.LinkedListClass.LinkedListClass",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListClass",
+      "request": "launch",
+      "mainClass": "collectionFramework.ArrayListClass.ArrayListClass",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListClass",
+      "request": "launch",
+      "mainClass": "collectionFramework.ArrayListClass",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "collectionFramework.Main",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Employee",
+      "request": "launch",
+      "mainClass": "serializeKeyWord.Employee",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Operators",
+      "request": "launch",
+      "mainClass": "operators.Operators",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "FileStream",
+      "request": "launch",
+      "mainClass": "javaio.FileStream",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "FileOutputStreamClass",
+      "request": "launch",
+      "mainClass": "javaio.FileOutputStreamClass",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "StringProblems",
+      "request": "launch",
+      "mainClass": "string.problems.StringProblems",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "stringProblems",
+      "request": "launch",
+      "mainClass": "string.problems.stringProblems",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "string.problems.Main",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "MainInterface",
+      "request": "launch",
+      "mainClass": "OOP.abstraction.javaInterface.MainInterface",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Lion",
+      "request": "launch",
+      "mainClass": "OOP.abstraction.abstractClass.Lion",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Sub",
+      "request": "launch",
+      "mainClass": "OOP.polymorphism.converiantReturnType.Sub",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "OOP.Constructor",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "programs.SelectionSort",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "ReverseLinkedList",
+      "request": "launch",
+      "mainClass": "programs.ReverseLinkedList",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "MainInterface",
+      "request": "launch",
+      "mainClass": "OOP.abstraction.javaInterface.MainInterface",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Dog",
+      "request": "launch",
+      "mainClass": "OOP.polymorphism.superKeyword.Dog",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Sub",
+      "request": "launch",
+      "mainClass": "OOP.polymorphism.converiantReturnType.Sub",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Programmer",
+      "request": "launch",
+      "mainClass": "OOP.inheritance.Programmer",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "OOP.Constructor",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "javaio.Main",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "array.Main",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "ImmutableDemo",
+      "request": "launch",
+      "mainClass": "ImmutableDemo",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "string.Main",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "javaPrograms.Fibonacci",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "javaPrograms.Main",
+      "projectName": "javaRev_4c3c9b00"
+    },
+    {
+      "name": "Java Debugging",
+      "type": "java",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/islam-bardala/Documents/javaRev",
+      "program": "/home/islam-bardala/Documents/javaRev/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
