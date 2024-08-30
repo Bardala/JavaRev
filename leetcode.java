@@ -1,5 +1,3 @@
-package Java;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -189,6 +187,7 @@ public class leetcode {
      * Group Anagrams
      */
 
+    @SuppressWarnings({ "rawtypes", "unchecked" })
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs.length == 0)
             return new ArrayList<>();
