@@ -185,5 +185,20 @@ public class ArrayListClass {
     printListElements(doubles); // -32.0 0.0 32.3 34.0 1000.0
 
     System.out.println(doubles);
+
+    // *
+
+    List<Integer> nums2 = new ArrayList<>();
+    nums2.add(23);
+    nums2.add(89);
+    nums2.add(8);
+
+    List<List<Integer>> list2D = new ArrayList<>();
+    list2D.add(new ArrayList<>(nums));
+    System.out.println(list2D);
+
+    nums2.removeLast();
+
+    System.out.println(list2D);
   }
 }

@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 
 public class ArrayMethods {
-
   public static void main(String[] args) {
     // Creating Arrays
     String[] cars = { "Volvo", "BMW", "Ford", "Mazda" };

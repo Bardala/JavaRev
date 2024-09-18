@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayListClass",
+      "request": "launch",
+      "mainClass": "collectionFramework.list.arrayListClass.ArrayListClass",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
+      "name": "mapInterface",
+      "request": "launch",
+      "mainClass": "collectionFramework.map.mapInterface",
+      "projectName": "javaRev_bce79829"
+    },
+    {
+      "type": "java",
       "name": "HashSetClass",
       "request": "launch",
       "mainClass": "collectionFramework.set.HashSetClass",
