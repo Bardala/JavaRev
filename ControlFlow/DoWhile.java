@@ -1,9 +1,13 @@
 public class DoWhile {
-  void run() {
-    int testVal = 0;
+  static void run() {
+    int testVal = 5;
     do {
       System.out.println(testVal);
       testVal++;
-    } while (testVal < 0);
+    } while (testVal < 10);
+  }
+
+  public static void main(String[] args) {
+    run();
   }
 }

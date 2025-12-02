@@ -35,7 +35,10 @@ public class Dog extends Animal {
 
   public static void main(String[] args) {
     Animal dog = new Dog();
-
     dog.run();
+
+    // Animal dog2 = new Dog();
+    // dog2.printDogColor(); // The method printDogColor() is undefined for the type
+    // Animal
   }
 }

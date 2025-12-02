@@ -6,15 +6,21 @@ public class Lion extends Animal {
   static {
     System.out.println("From static block"); // 1th output
   }
+
   // 2nd output from the parent class
+  /*
+   * Instance Initialization Block
+   * Belongs to the instance
+   * runs every time you create a new object, before the constructor.
+   */
   {
     name = "Lion"; // this line executed before the constructor (before creating a new instance)
-    System.out.println("From block"); // 3rd output
+    System.out.println("From Instance block"); // 3rd output
   }
 
   public Lion() {
     super();
-    System.out.println(name + " is created"); // 4th output
+    System.out.println(name + " object is created"); // 4th output
   }
 
   @Override
@@ -39,6 +45,6 @@ public class Lion extends Animal {
   }
 
   public static void main(String[] args) {
-    Lion lion = new Lion();
+    new Lion();
   }
 }

@@ -8,6 +8,11 @@ public class ArrayMethods {
     // Creating Arrays
     String[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
     int[] numbers = { 10, 20, 30, 40 };
+    int arr[] = new int[] { 1, 2, 3 };
+
+    for (int i : arr) {
+      System.out.println(i);
+    }
 
     // Accessing Array Elements
     System.out.println(cars[0]); // Outputs: Volvo

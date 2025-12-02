@@ -16,7 +16,7 @@ public class Adder {
     return num1 + num2 + num3;
   }
 
-  /** Overloading by changing the data type */
+  /** Overloading by changing the data type of the parameters */
   public static double add(double num1, double num2, double num3) {
     return num1 + num2 + num3;
   }

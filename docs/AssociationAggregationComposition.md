@@ -194,10 +194,7 @@ These concepts help in designing robust and maintainable object-oriented systems
 ²: [Difference Between Aggregation and Composition in Java - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-aggregation-and-composition-in-java/)
 
 ```
-
-Feel free to copy this content into a `.md` file. If you need any further assistance, let me know! 😊
-
-Source: Conversation with Copilot, 8/22/2024
+Source:
 (1) GeeksforGeeks | A computer science portal for geeks. https://www.geeksforgeeks.org/.
 (2) Python Tutorial | Learn Python Programming - GeeksforGeeks. https://www.geeksforgeeks.org/python-programming-language-tutorial/.
 (3) Practice | GeeksforGeeks | A computer science portal for geeks. https://www.geeksforgeeks.org/explore.

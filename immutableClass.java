@@ -22,7 +22,13 @@ final class Employee {
 class ImmutableDemo {
   public static void main(String ar[]) {
     Employee e = new Employee("ABC123");
+
     String s1 = e.getPancardNumber();
+
+    // The final field Employee.pancardNumber cannot be assigned
+    // e.pancardNumber = "DEF";
+
+    System.out.println(e.pancardNumber);
     System.out.println("Pancard Number: " + s1);
   }
 }

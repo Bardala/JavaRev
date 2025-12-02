@@ -113,7 +113,8 @@ public class Constructor {
     // They are:
     // By constructor
     // By assigning the values of one object into another
-    // By clone() method of Object class
+    // By clone() method of Object class, by implementing Cloneable interface, then
+    // overriding the clone() method
 
     // 1. By Constructor
     Constructor cons2 = new Constructor(cons);
@@ -126,5 +127,6 @@ public class Constructor {
     cons3.printInfo();
 
     System.out.println(ins.toString());
+
   }
 }

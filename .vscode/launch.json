@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Lion",
+      "request": "launch",
+      "mainClass": "abstractClass.Lion",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "MainInterface",
+      "request": "launch",
+      "mainClass": "javaInterface.MainInterface",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "Dog",
+      "request": "launch",
+      "mainClass": "OOP.polymorphism.superKeyword.Dog",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "Bank",
+      "request": "launch",
+      "mainClass": "OOP.polymorphism.overriding.Bank",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "Sub",
+      "request": "launch",
+      "mainClass": "OOP.polymorphism.covariantReturnType.Sub",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "FanStressTest",
+      "request": "launch",
+      "mainClass": "FanStressTest",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "draft",
+      "request": "launch",
+      "mainClass": "draft",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
+      "name": "ImmutableDemo",
+      "request": "launch",
+      "mainClass": "ImmutableDemo",
+      "projectName": "JavaRev_ce332d83"
+    },
+    {
+      "type": "java",
       "name": "ArrayListClass",
       "request": "launch",
       "mainClass": "collectionFramework.list.arrayListClass.ArrayListClass",

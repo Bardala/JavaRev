@@ -11,7 +11,8 @@ import OOP.polymorphism.superKeyword.Dog;
 
 public class Main {
   // You can have any number of main methods in a class by method overloading. But
-  // JVM calls main() method which receives string array as arguments only.
+  // JVM calls main() method which receives string array (String args[]) as
+  // arguments only.
   /** Overloading Main method */
   public static void main(String args) {
     System.out.println("main with String");
@@ -31,6 +32,15 @@ public class Main {
     System.out.println("static block is invoked");
   }
 
+  /*
+   * Instance Initialization Block
+   * Belongs to the instance
+   * runs every time you create a new object, before the constructor.
+   */
+  {
+    System.out.println("From Instance block"); // 3rd output
+  }
+
   int num;
 
   void printHello() {
@@ -44,6 +54,7 @@ public class Main {
   }
 
   static int staticVariable = 100; // *static variable
+  int instanceVariable = 100;
 
   void method() {
     int localVariable = 90;// local variable
@@ -59,8 +70,10 @@ public class Main {
     System.out.println(123); // base 10
     System.out.println(0xA); // base 16 starts with 0x
 
-    int instanceVariable = 50; // *instance variable
-    System.out.println(instanceVariable);
+    int localVariable = 50; // *local variable
+    System.out.println(localVariable);
+
+    System.out.println();
 
     System.out.println("Static variable from the main method " + staticVariable);
 
